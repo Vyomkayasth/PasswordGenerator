@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input{
+  /* all: unset; */
+  border: 2px solid transparent;
+  padding: 4px 20px;
+  background-color: transparent;
+  transition: all 1.5 ease;
+  /* box-shadow: 5px 10px #888888; */
+  background: linear-gradient(#121125,#121125)
+    padding-box,
+    linear-gradient(45deg,blue,red)border-box;
+    border-radius:  10px 0px 0px 10px ;
+}
+ 
